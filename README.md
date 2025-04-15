@@ -1,4 +1,4 @@
-#get_next_line
+# get_next_line
 
 
 The main purpose for this project is to create a function that reads from a file descriptor and returns the line read.
