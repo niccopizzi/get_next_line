@@ -116,4 +116,4 @@ int close(int fd);
 That's it! These are the most important concepts for this project, if you want to learn more I think it would be nice to check also :
 
 - The stack (what it is, how it works, why stack overflow matters in cybersecurity)
-- Syscalls, there's **[this]**(https://www.youtube.com/watch?v=xHu7qI1gDPA&t=1155s) great video about them that you can check, it goes quite in depth and explains this concept perfectly.
+- Syscalls, there's **[this](https://www.youtube.com/watch?v=xHu7qI1gDPA&t=1155s)** great video about them that you can check, it goes quite in depth and explains this concept perfectly.
